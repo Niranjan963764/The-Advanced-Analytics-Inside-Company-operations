@@ -3,14 +3,23 @@ uncovered meaningful insights across Finance, Marketing, Sales, and Supply Chain
 
 # 📌Key Parameters Used
 -Forecast Accuracy %
+
 -Freight Cost $
+
 -Gross Margin (GM) / Unit
+
 -Net Profit %
+
 -Operational Expense
--Revenue $
+
+-Revenue($)
+
 -Sales Quantity (Sales Qty)
+
 -Total Cost of Goods Sold (Total COGS $)
+
 -Net Error %
+
 -Ads & Promotions Expense $
 
 ## Interface-1
